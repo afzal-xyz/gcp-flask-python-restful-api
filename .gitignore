@@ -1,0 +1,9 @@
+*.pyc
+.idea
+.pre-commit-config.yaml
+*.yaml
+*.db
+/venv
+/staic
+/templates
+
